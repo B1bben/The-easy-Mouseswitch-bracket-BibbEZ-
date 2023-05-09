@@ -1,5 +1,8 @@
 # The-easy-Mouseswitch-bracket-BibbEZ-
 This is a freely availbale mouseswitch bracket for mouseswitch z that I made. 
+![344300549_192950960337815_4380269619552043077_n](https://github.com/B1bben/The-easy-Mouseswitch-bracket-BibbEZ-/assets/130059101/bbeb2775-efe7-4f4f-8614-4e84fc17926c)
+![344300423_747084713824047_458502577632685541_n](https://github.com/B1bben/The-easy-Mouseswitch-bracket-BibbEZ-/assets/130059101/5b8939de-c09c-4fcd-ad40-fba437ce34ff)
+
 
 It is maid for Kailh microswitches, this kind:
 ![image](https://github.com/B1bben/The-easy-Mouseswitch-bracket-BibbEZ-/assets/130059101/88ebe3b0-13f1-4c8a-b459-2e3740920477)
