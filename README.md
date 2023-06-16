@@ -13,3 +13,5 @@ bend the pins, and solder thin wire to them, then thread the wire through the ho
 Requires minimal modification, none to the shell, only a small piece needs to be cut from the button pad for abxy. no mod needed for the z button.
 
 Get the model here: https://www.printables.com/model/477106-bibbez-the-easy-mouseswitch-z-mounting-bracket
+https://www.printables.com/model/503685-bibbez-modular-fdm-shell-addon
+
